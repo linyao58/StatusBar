@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 //        MyBar.statusBar(this, Color.TRANSPARENT)
-        MyBar.navigationBar(this, Color.TRANSPARENT)
 
     }
 }
