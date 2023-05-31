@@ -21,6 +21,7 @@ object MyBar {
         activity.window.statusBarColor = color
         val controller = ViewCompat.getWindowInsetsController(activity.findViewById(android.R.id.content))
 //        true 字体为黑色
+
         controller?.isAppearanceLightStatusBars = false
     }
 
