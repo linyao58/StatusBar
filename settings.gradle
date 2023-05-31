@@ -1,0 +1,3 @@
+include ':layoutlibrary'
+include ':app'
+rootProject.name = "TopLayout"
